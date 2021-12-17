@@ -1,1 +1,1 @@
-https://evgeniiDJS.github.io/QuSoft/
+https://evgeniiDJS.github.io/QuSoft/task
